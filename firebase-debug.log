@@ -59,3 +59,18 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as IAaron4 
 [info] 
+[debug] [2023-04-26T19:24:01.246Z] >>> [apiv2][query] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key type=owner
+[debug] [2023-04-26T19:24:01.405Z] <<< [apiv2][status] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key 401
+[debug] [2023-04-26T19:24:01.405Z] <<< [apiv2][body] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-04-26T19:24:21.727Z] >>> [apiv2][query] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key type=owner
+[debug] [2023-04-26T19:24:21.885Z] <<< [apiv2][status] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key 401
+[debug] [2023-04-26T19:24:21.886Z] <<< [apiv2][body] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-04-26T19:24:25.618Z] >>> [apiv2][query] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key type=owner
+[debug] [2023-04-26T19:24:25.773Z] <<< [apiv2][status] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key 401
+[debug] [2023-04-26T19:24:25.773Z] <<< [apiv2][body] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-04-26T19:27:13.241Z] >>> [apiv2][query] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key type=owner
+[debug] [2023-04-26T19:27:13.391Z] <<< [apiv2][status] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key 401
+[debug] [2023-04-26T19:27:13.392Z] <<< [apiv2][body] GET https://api.github.com/repos/IAaron4/portfolio-aaron/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-04-26T19:27:15.179Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-04-26T19:27:15.348Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-04-26T19:27:15.348Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
